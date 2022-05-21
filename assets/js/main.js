@@ -39,3 +39,4 @@ const scrollReveal = ScrollReveal({
       nav.classList.remove("show");
     });
   }
+  
